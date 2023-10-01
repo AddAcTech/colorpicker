@@ -1,7 +1,7 @@
 I decided to make this proyect as my first Chromium Extension.
-To start using it follow the next steps (for Chrome browser):
+To start using it follow the next steps (for Chrome and Edge browser):
 1.  Clone this repository
-2.  Go to chrome://extensions/
+2.  Go to chrome://extensions/ for Chrome or edge://extensions/ for Edge 
 3.  Enable the developer mode in the right top corner
 4.  Click on "Load unpacked"
 5.  Select the extension folder
